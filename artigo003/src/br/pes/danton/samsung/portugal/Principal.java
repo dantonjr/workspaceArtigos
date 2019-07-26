@@ -1,4 +1,4 @@
-package br.pes.danton.portugal;
+package br.pes.danton.samsung.portugal;
 
 import java.awt.image.BufferedImage;
 import java.io.File;

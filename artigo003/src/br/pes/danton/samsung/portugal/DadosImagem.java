@@ -1,4 +1,4 @@
-package br.pes.danton.portugal;
+package br.pes.danton.samsung.portugal;
 
 public class DadosImagem {
 	private String id;
