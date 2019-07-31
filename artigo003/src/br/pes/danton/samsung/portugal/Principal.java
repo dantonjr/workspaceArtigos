@@ -39,7 +39,7 @@ public class Principal {
 				dados.setHeight(json.get("height").toString());
 				dados.setPath(json.get("path").toString());
 				System.out.printf("Id: %4s\tTítulo \"%s\"\tWidth: %s\tHeight: %s\n", dados.getId(), dados.getTitle(), dados.getWidth(), dados.getHeight());
-				titulo = dados.getTitle().isEmpty() ? titulo : dados.getTitle();
+				titulo = (dados.getTitle().isEmpty() ? titulo : dados.getTitle()).replaceAll("/", "-");
 				System.out.printf("\tCapturando a imagem da URL [%s].\n", dados.getPath());
 				URL url = new URL(dados.getPath());
 				imagem = ImageIO.read(url);
