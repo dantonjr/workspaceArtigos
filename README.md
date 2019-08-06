@@ -16,3 +16,5 @@ https://www.linkedin.com/pulse/brincando-com-annotations-e-enums-em-java-simples
 002 - Brincando com ConcurrentHashMap, Arrays e Threads - um exemplo prático demonstrado através da loteria.
 https://www.linkedin.com/pulse/brincando-com-concurrenthashmap-arrays-threads-e-um-danton
 
+003 - Lendo Arquivos JSON e Capturando Imagens da WEB em Java - um exemplo prático usando a Samsung Portugal.
+https://www.linkedin.com/pulse/lendo-arquivos-json-e-capturando-imagens-da-web-em-danton/
